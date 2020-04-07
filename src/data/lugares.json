@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"nombre": "Capilla de la Inmaculada",
+		"año": "1764. Fachada en 1924",
+		"tipologia": "arquitectura religiosa",
+		"arquitectos_inventores": "anónimo. Intervenida por Mauricio Ramelli y el maestro Acuña",
+		"direccion": "carrera 6 # 9-03",
+		"gps": [3.449929, -76.534069],
+		"historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali (Departamento Administartivo de Planeación Municipal, 2014) , esta capilla fue originalmente dedicada a San Francisco. La primera construcción data de 1784 y era una nave con muros de adobe, cubierta de paja (Sebastián, 1965) . Luego se le añadió una torre de estilo mudéjar. En el XIX se cambió la techumbre de paja por tejas de barro (André &amp; Saffra, 1879) . En 1924, Mauricio Ramelli intervino la construcción aumentando su altura interior con bóvedas de crecerías y modificó la fachada a estilo neoclásico-republicano. Su fachada lateral fue modificada en 1936 por el maestro Acuña, para armonizarla visualmente con la Iglesia de San Francisco y su torre (Mantilla, 1986).",
+		"proteccion": "En la actualidad está catalogado como Bien de Interés Cultural de la Nación, como la aledaña Iglesia de San Francisco, en la resolución 1686 del 1 de diciembre de 2004 (Departamento Administartivo de Planeación Municipal, 2014) .",
+		"anotaciones": "Aunque la construcción se realizó en el siglo VIII, su fachada principal (que da a la calle 9) fue remodelada en 1924 bajo los preceptos y estética republicana.",
+		"bibliografia": [
+			"André, E., &amp; Saffra, C. (1879). Le Tour du Monde. Dibujos publicados en America Pintoresca,. Bogotá: Litografia Arco.",
+			"Departamento Administartivo de Planeación Municipal. (2014). BIC N-2. Santiago de Cali: Alcaldía de Santiago de Cali.",
+			"Mantilla, L. L. (1986). Cali y su convento de San Francisco. Bogotá: Ed. Kelly.",
+			"Sebastián, S. (1965). Arquitectura Colonial en Popayán y Valle del Cauca. Cali: Universidad del Valle."
+		]
+	}
+]
