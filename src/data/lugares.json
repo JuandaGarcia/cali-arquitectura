@@ -338,5 +338,285 @@
       "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-51. Santiago de Cali: Alcaldía de Santiago de Cali.",
       "Elpais.com. (s.f.). https://www.elpais.com.co/. Recuperado el 06 de noviembre de 2019, de https://www.elpais.com.co/:https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.elpais.com.co%2Ffiles%2Farticle_content_gallery%2Fuploads%2F2017%2F10%2F21%2F59ebbbdbe23fd.jpeg&amp;imgrefurl=https%3A%2F%2Fwww.elpais.com.co%2Fcali%2Flas-joyas-arquitectonicas-de-que-se-convierten-en-casas"
     ]
+  },
+  {
+    "id": 21,
+    "nombre": "Iglesia de San Nicolás",
+    "año": "1880, intervenido en 1957",
+    "tipologia": "Iglesia",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Cl. 20 #Carrera 5",
+    "gps": [3.454748, -76.52505],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio en buen estado.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-52. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4546437,-76.525592,3a,75y,88.77h,113.17t/data=!3m6!1e1!3m4!1sX24ICJSbBE-zMFBpqr39mA!2e0!7i13312!8i6656?hl=es"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Iglesia de Santa Rosa",
+    "año": "1939. Reformada en 1956",
+    "tipologia": "Edificación religiosa (iglesia)",
+    "arquitectos_inventores": "José Sacasas Munné",
+    "direccion": "Cra. 10 ##10-5",
+    "gps": [3.447277, -76.532443],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, su altar mayor original, hecho en mármol de carrara, fue destruido en los años 70 del siglo XX para adecuarse a las exigencias litúrgicas del Concilio del Vaticano II.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Parece ser que, en origen, no estaba enyesado, sino que prevalecía su construcción exterior de ladrillo visto.",
+    "bibliografia": [
+      "Camargo, F. A. (junio de 2017). Google maps. Recuperado el 07 de septiembre de 2019, de google.com: https://www.google.com/maps/place/Parque+Santa+Rosa/@3.4474359,-76.5319623,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNS64dp2OF5jXJNkW0yPjydyvp4_fSNCHmjsm4z!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNS64dp2OF5jXJNkW0yPjydyvp4_fSNCHmjsm4z%3Dw",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-55. Santiago de Cali: Alcaldía de Santiago de Cali."
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Biblioteca del Centenario",
+    "año": "1928",
+    "tipologia": "Escuela. Actual biblioteca",
+    "arquitectos_inventores": "Reforma por Mauricio Otero Lavado",
+    "direccion": "Av. 4 Oe. #1-16 esquina",
+    "gps": [3.450743, -76.543748],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, fue construida como escuela Isaías Gamboa. En 1983 pasó a ser biblioteca, para albergar los fondos de la Biblioteca del Centenario. Fue remodelada en 2010.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de tipo arquitectónico.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio muy reconvertido en 2010, hasta el punto de eliminar elementos originales importantes estética y estructurales de la edificación original, por lo que, probablemente, se tuvo que cambiar su nivel de protección.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-82. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4506371,-76.5436277,3a,90y,267.27h,93.24t/data=!3m6!1e1!3m4!1sU44vt1Rj-yVSfKlhYpWEow!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Casa Gómez",
+    "año": "1945",
+    "tipologia": "Vivienda y oficinas (actualmente en venta)",
+    "arquitectos_inventores": "Gerardo Posada",
+    "direccion": "Avenida 2 Norte #2N-22",
+    "gps": [3.451291, -76.540289],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, ha pasado de vivienda a oficinas, sin cambiar su configuración exterior. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio actualmente en venta, del que se ha de vigilar cuidadosamente sus elementos arquitectónicos y configuración exterior original.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-7. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4513727,-76.5404096,3a,75y,116.27h,83.32t/data=!3m6!1e1!3m4!1sEd0YAoZjaEboV8UGeuE9ow!2e0!7i13312!8i6656",
+      "Google maps. (noembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4511827,-76.5404439,3a,75y,68.58h,88.64t/data=!3m6!1e1!3m4!1s9jkrPj88dVFARGW8tNAM4w!2e0!7i13312!8i6656",
+      "Universidad nacional de Colombia. (s.f.). Historia extensa de la arquitectura en Colombia. Recuperado el 12 de noviembre de 2019, de http://blogs.virtual.unal.edu.co/: http://blogs.virtual.unal.edu.co/hacolombia/files/2011/10/340.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Casa Republicana de 1928",
+    "año": "1928",
+    "tipologia": "Vivienda - negocios",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 2 Norte #2N-22 (Barrio Granada)",
+    "gps": [3.451291, -76.540289],
+    "historia": "Edificación modelo de edificio republicano neoclásico, al estilo europeo. Es de los pocos ejemplos de los que se señala el año de construcción y estuvo a punto de ser demolido completamente.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio modificado y parcialmente destruido, pero aún conservan bastantes elementos originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-13. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4572635,-76.5337127,3a,75y,164.71h,90.48t/data=!3m6!1e1!3m4!1sk6LkftJl9UeohqtUnWqHQg!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Casa Republicana",
+    "año": "Década de los 20 -30 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "",
+    "direccion": "Av. 6 Nte. #23 (Barrio Granada)",
+    "gps": [3.457061, -76.534037],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Aunque el edificio ha sido modificado, aún conserva elementos que lo dotan de una gran calidad arquitectónica.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-55. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-14. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4569101,-76.5338635,3a,90y,280.57h,98.88t/data=!3m6!1e1!3m4!1sTb-r1ei-ydmJeAfGTas6nQ!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Casa Republicana",
+    "año": "Principios del siglo XX (década de los 20)",
+    "tipologia": "Vivienda - restaurante",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 9 N # 15 AN – 02 (Barrio Granada)",
+    "gps": [3.459904, -76.533929],
+    "historia": "Debió ser una vivienda y actualmente es un negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio relativamente bien conservado, pero con elementos que distorsionan y menguan su valor.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-16. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4598093,-76.5338965,3a,49.9y,272.56h,92.63t/data=!3m6!1e1!3m4!1sr699JbyIJL4Pxq6p3yYUpA!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Casa de la Quinta Guzmán o de Los Leones",
+    "año": "1925-1930",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Juan Pablo Lalinde",
+    "direccion": "Avenida 4 Norte #10N-01 (Barrio Granada)",
+    "gps": [3.455585, -76.535151],
+    "historia": "Edificio contraído por el arquitecto Juan Pablo Lalinde para Manuel Guzmán (Archivo Fotográfico y Fílmico) . Ha pasado de vivienda a otros usos, como el institucional o negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso sus zonas verdes, que le confieren un valor especial al edificio.",
+    "bibliografia": [
+      "Archivo Fotográfico y Fílmico. (s.f.). Recuperado el 11 de julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: http://audiovisuales.icesi.edu.co/audiovisuales/handle/123456789/72338",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-19. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.455325,-76.5352634,3a,29.5y,31.87h,88.85t/data=!3m6!1e1!3m4!1ssRPFRwhG_Lv3rUN7B13IFg!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 8 Norte #10N-05 (Barrio Granada)",
+    "gps": [3.456111, -76.53608],
+    "historia": "Edificio que ha pasado de vivienda a otros usos, como el institucional o negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso sus zonas verdes, que le confieren un valor especial al edificio.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-21. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4559834,-76.5360815,3a,75y,354.03h,87.79t/data=!3m6!1e1!3m4!1sCU78B2jU6_yqyVIgZvGA8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 15 Norte #8N-39 (Barrio Granada)",
+    "gps": [3.459105, -76.534054],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso se ha respetado su color original. Su aparcamiento sirve como escaparate.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-24. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591863,-76.5338484,3a,75y,217.65h,89.57t/data=!3m6!1e1!3m4!1s2NuiAiEv9sWH-8pYUG_Q8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 15 Norte #8N-4 (Barrio Granada)",
+    "gps": [3.459037, -76.534075],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero se ha cambiado el color original de la fachada y corre el riesgo de perder su valor patrimonial.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-24. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591863,-76.5338484,3a,75y,197.54h,93.62t/data=!3m6!1e1!3m4!1s2NuiAiEv9sWH-8pYUG_Q8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 14 Norte #9N-55 (Barrio Granada)",
+    "gps": [3.458978, -76.535322],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero la profusión de la vegetación del jardín oculta parte de la construcción.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-28. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591777,-76.5352735,3a,75y,193.55h,91.8t/data=!3m6!1e1!3m4!1sdGfEuZ9lJC7S0Pw_er5uvA!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Villa Felisa",
+    "año": "1924",
+    "tipologia": "Vivienda. Actual restaurante.",
+    "arquitectos_inventores": "Promovido por Marco A. Botero.",
+    "direccion": "Avenida 6 #4N-51 (Barrio Granada)",
+    "gps": [3.456359, -76.533998],
+    "historia": "Edificio, cuyo nombre original era “Villa Ofelia”, fue promovido en 1924 por Marco A. Botero. El 9 de febrero de 1943, Josefina Hoyos (como albacea de sus hijos Germán y Arturo Gómez Hoyos) traspasó el bien, por medio de Julio C. Gómez L., a Salomón Vélez C., por 38000 pesos colombianos. (Nieto, 9) Felisa Montoya (Viuda de Vélez y a la que se le debe realmente su nomenclatura actual) adquirió en 1967 el inmueble por 1000000 de pesos. Un año más tarde lo transfirió a la Universidad Santiago de Cali por 1050000 pesos. (Certificado de tradición inmobiliaria, 2012) La USC convirtió el edificio en facultad de Educación y consultorio jurídico. En 1995 lo cedió a José Agustín Grajales por 600000000 de pesos, para invertirlos en la construcción de dos nuevos bloques en su sede en Pampalinda. En 1996 lo adquirió Germán Mejía Amaya. (El Tiempo, 1997)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero el color y el uso actual del inmueble degrada su valor patrimonial.",
+    "bibliografia": [
+      "Certificado de tradición inmobiliaria, 370-81598 (2012).",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-35. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "El Tiempo. (13 de mayo de 1997). La Felisa, con una restauración incierta. Recuperado el 5 de febrero de 2020, de El Tiempo: https://www.eltiempo.com/archivo/documento/MAM-582640",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4563462,-76.5338779,3a,75y,291.2h,92.87t/data=!3m7!1e1!3m5!1swNmz93RHXGk_xY4ZKpykxw!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DwNmz93RHXGk_xY4ZKpykxw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D",
+      "Nieto, R. (1943 de fecbrero de 9). Escritura 271 de 1943. Santiago de Cali: Notaría Primera de Santiago de Cali.",
+      "Vélez, A. (13 de noviembre de 2013). Villa Felisa. Recuperado el 5 de enero de 2020, de https://villafelisa.wordpress.com/"
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Casa republicana (Barrio Versalles)",
+    "año": "Principios del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 5 A Norte calle 21N-41 (ó Av. 5a Nte. #21-56)",
+    "gps": [3.462671, -76.529105],
+    "historia": "Edificio que, al parecer, no ha cambiado su función de vivienda.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado con sus elementos exteriores originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-53. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B027&#39;45.6%22N+76%C2%B031&#39;44.8%22W/@3.4625924,-76.5289847,3a,62.7y,305.44h,92.65t/data=!3m7!1e1!3m5!1sb-mDbJ5LXDYONXfb0Zzz0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Db-mDbJ5LXDYONXfb0Zzz0g%26output%3Dthumbnail%26cb"
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Casa republicana (Barrio El Peñón)",
+    "año": "Años 20 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 3 Oeste #1-38 (Jose Riveros B Cl. 3 Oe. #1-38 )",
+    "gps": [3.450593, -76.542824],
+    "historia": "Edificio que ha cambiado su función de vivienda a negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado con sus elementos exteriores originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-67. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B027&#39;45.6%22N+76%C2%B031&#39;44.8%22W/@3.4625924,-76.5289847,3a,62.7y,305.44h,92.65t/data=!3m7!1e1!3m5!1sb-mDbJ5LXDYONXfb0Zzz0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Db-mDbJ5LXDYONXfb0Zzz0g%26output%3Dthumbnail%26cb"
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Casa republicana (Barrio El Peñón)",
+    "año": "Años 20 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Cra. 2 #1-27/37 Oeste. (Cra. 1 Oe.)",
+    "gps": [3.450415, -76.541407],
+    "historia": "Edificio que ha cambiado su función de vivienda a restaurante.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pese a algunas modificaciones en vanos y cerramientos.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-72. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4504901,-76.5412954,3a,63.3y,171.84h,95.26t/data=!3m6!1e1!3m4!1szOSooiptgo6qY5qa5holew!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Casa republicana (Barrio de San Nicolás)",
+    "año": "Primeras décadas del siglo XX (años 30 o 40).",
+    "tipologia": "Vivienda y comercio",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 19 # 2-42/84/52/56. Esquina con Carrera 3 # 18-83/89.",
+    "gps": [3.455987, -76.526985],
+    "historia": "Edificio que ha cambiado poco en su uso, especialmente en su vertiente comercial.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio que ha cambiado algunas de sus estructuras y necesita una intervención urgente.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-73. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4559508,-76.5268933,3a,90y,293.55h,101.58t/data=!3m6!1e1!3m4!1sAbh0l9liEcMVRMn0yFBLbw!2e0!7i13312!8i6656"
+    ]
   }
 ]
