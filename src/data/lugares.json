@@ -1,20 +1,622 @@
 [
-	{
-		"id": 1,
-		"nombre": "Capilla de la Inmaculada",
-		"año": "1764. Fachada en 1924",
-		"tipologia": "arquitectura religiosa",
-		"arquitectos_inventores": "anónimo. Intervenida por Mauricio Ramelli y el maestro Acuña",
-		"direccion": "carrera 6 # 9-03",
-		"gps": [3.449929, -76.534069],
-		"historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali (Departamento Administartivo de Planeación Municipal, 2014) , esta capilla fue originalmente dedicada a San Francisco. La primera construcción data de 1784 y era una nave con muros de adobe, cubierta de paja (Sebastián, 1965) . Luego se le añadió una torre de estilo mudéjar. En el XIX se cambió la techumbre de paja por tejas de barro (André &amp; Saffra, 1879) . En 1924, Mauricio Ramelli intervino la construcción aumentando su altura interior con bóvedas de crecerías y modificó la fachada a estilo neoclásico-republicano. Su fachada lateral fue modificada en 1936 por el maestro Acuña, para armonizarla visualmente con la Iglesia de San Francisco y su torre (Mantilla, 1986).",
-		"proteccion": "En la actualidad está catalogado como Bien de Interés Cultural de la Nación, como la aledaña Iglesia de San Francisco, en la resolución 1686 del 1 de diciembre de 2004 (Departamento Administartivo de Planeación Municipal, 2014) .",
-		"anotaciones": "Aunque la construcción se realizó en el siglo VIII, su fachada principal (que da a la calle 9) fue remodelada en 1924 bajo los preceptos y estética republicana.",
-		"bibliografia": [
-			"André, E., &amp; Saffra, C. (1879). Le Tour du Monde. Dibujos publicados en America Pintoresca,. Bogotá: Litografia Arco.",
-			"Departamento Administartivo de Planeación Municipal. (2014). BIC N-2. Santiago de Cali: Alcaldía de Santiago de Cali.",
-			"Mantilla, L. L. (1986). Cali y su convento de San Francisco. Bogotá: Ed. Kelly.",
-			"Sebastián, S. (1965). Arquitectura Colonial en Popayán y Valle del Cauca. Cali: Universidad del Valle."
-		]
-	}
+  {
+    "id": 1,
+    "nombre": "Capilla de la Inmaculada",
+    "año": "1764. Fachada en 1924",
+    "tipologia": "Arquitectura religiosa",
+    "arquitectos_inventores": "Anónimo. Intervenida por Mauricio Ramelli y el maestro Acuña",
+    "direccion": "carrera 6 # 9-03",
+    "gps": [3.449929, -76.534069],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali (Departamento Administartivo de Planeación Municipal, 2014) , esta capilla fue originalmente dedicada a San Francisco. La primera construcción data de 1784 y era una nave con muros de adobe, cubierta de paja (Sebastián, 1965) . Luego se le añadió una torre de estilo mudéjar. En el XIX se cambió la techumbre de paja por tejas de barro (André &amp; Saffra, 1879) . En 1924, Mauricio Ramelli intervino la construcción aumentando su altura interior con bóvedas de crecerías y modificó la fachada a estilo neoclásico-republicano. Su fachada lateral fue modificada en 1936 por el maestro Acuña, para armonizarla visualmente con la Iglesia de San Francisco y su torre (Mantilla, 1986).",
+    "proteccion": "En la actualidad está catalogado como Bien de Interés Cultural de la Nación, como la aledaña Iglesia de San Francisco, en la resolución 1686 del 1 de diciembre de 2004 (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Aunque la construcción se realizó en el siglo VIII, su fachada principal (que da a la calle 9) fue remodelada en 1924 bajo los preceptos y estética republicana.",
+    "bibliografia": [
+      "André, E., &amp; Saffra, C. (1879). Le Tour du Monde. Dibujos publicados en America Pintoresca,. Bogotá: Litografia Arco.",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-2. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Mantilla, L. L. (1986). Cali y su convento de San Francisco. Bogotá: Ed. Kelly.",
+      "Sebastián, S. (1965). Arquitectura Colonial en Popayán y Valle del Cauca. Cali: Universidad del Valle."
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Catedral de San Pedro",
+    "año": "1772 a 1842. Fachada de 1925",
+    "tipologia": "Edificación religiosa",
+    "arquitectos_inventores": "Diseño de Antonio García. Intervención por Borrero y Ospina",
+    "direccion": "Calle 11 Cra 5 #39. Plaza Caicedo",
+    "gps": [3.451215, -76.53261],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali,el edificio fue diseñado por Antonio García fue en 1772. La obra se prolongó hasta 1841, con modificaciones (Departamento Administartivo de Planeación Municipal, 2014). La fachada y su torre fueron destruidas en el terremoto 7 de Junio de 1925 (Calero Tejada, 1983), por lo que en 1925 se construyeron nuevas por los arquitectos Borrero y Ospina, bajo premisas neoclásicas (Departamento Administartivo de Planeación Municipal, 2014).",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional mediante la Resolución 1686 del 1 de diciembre de 2004. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Aunque el edificio se edificó entre el siglo XVII y XIX, su fachada se realizó en 1925 bajo preceptos republicanos neoclásicos.",
+    "bibliografia": [
+      "Archivo Fotográfico y Fílmico. (s.f.). Recuperado el 10 de julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: https://bibliovalle.gov.co/portal/archivo-fotografico-y- filmico",
+      "Calero Tejada, A. (1983). Cali eterno: la ciudad de ayer y de hoy. Cali: Talleres Litográficos de Feriva.",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-5. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Guía Turística de Colombia. (s.f.). Recuperado el 10 de julio de 2019, de Catedral De San Pedro En Cali, Colombia.: http://www.conocecolombia.com/turismo-colombia/cali-turistica/sitios-turisticos/catedral-san-pedro-cali/#sthash.tDXhiL1q.dpbs"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Convento de San Joaquín",
+    "año": "1757- 1.764",
+    "tipologia": "Edificación religiosa",
+    "arquitectos_inventores": "Promoción de franciscano Fray Fernando de Jesús Larrea",
+    "direccion": "Calle 9 #5 - 59",
+    "gps": [3.450169, -76.534087],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, el actual Convento de San Joaquín es un conjunto de varias edificaciones realizadas entre la segunda mitad del siglo XVIII. El iniciador de la obra fue el franciscano Fray Fernando de Jesús Larrea, quien promovió el Colegio de Misiones de San Joaquín. De esta época se conserva el primer patio y la iglesia de la Inmaculada. También se construyó el segundo patio a lado de la Iglesia de San Francisco. En la segunda mitad del Siglo XX se edificó un patio y dos naves en L con pórticos de concreto y ladrillo. La fachada original del edificio era de mampostería, pero se revistió visto para emular cierta uniformidad con el estilo mudéjar de la torre. En la década de los 80 que sustituyó el viejo Edificio Monasterio, cuyas obras aún no han sido terminadas. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional mediante la Resolución 1686 del 1 de diciembre de 2004. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Aunque el edificio se realizó en el siglo XVIII, un patio y dos naves en L con pórticos de concreto y ladrillo.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-9. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "El Convento de San Joaquín. (s.f.). Recuperado el 15 de julio de 2019, de caliescali: http://calicomentarios.blogspot.com/2012/07/el-convento-de-san-joaquin-visto-desde.html"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Edificio Otero",
+    "año": "1924-27",
+    "tipologia": "Hotel y comercial. Actual sede bancariaanco (sucursal del Banco Bilbao Vizcaya Argentaria)",
+    "arquitectos_inventores": "Ingenieros de la firma Borrero y Ospina. Restauración por Hernández y Mejía",
+    "direccion": "Cra. 5A - Calle 12",
+    "gps": [3.451784, -76.531937],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, éste fue el primer edificio de la ciudad con estructura en hormigón armado, convirtiendo sus muros como cerramiento. Sus arquitectos fueron los ingenieros de la firma Borrero y Ospina, quienes concibieron este edificio de estética neoclásica francesa. Debido a su deterioro, fue restaurado por Hernández y Mejía en 1980, tras una movilización popular en contra de su demolición (Departamento Administartivo de Planeación Municipal, 2014). En su origen el primer piso estaba de dicado como planta comercial, mientras que los demás estría reservado a hotel.",
+    "proteccion": "Según Plan de Ordenamiento Territorial de Santiago de Cali de 2014-2027, está declarado como Bien de Interés Cultural del ámbito Nacional por el Decreto 1722 / 25-VII-1977 y tiene nivel 1de conservación integral (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Edificio republicano neoclásico de clara influencia, en forma y estilo, francesa del siglo XIX.",
+    "bibliografia": [
+      "Alcaldía de Santiago de Cali. (s.f.). Recuperado el 15 de julio de 2019, de A devolverle el esplentod al Edificio Otero: http://www.cali.gov.co/general/publicaciones/18855/a_devolverle_el_esplendor_al_edificio_otero/",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N - 12. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Fachada del edificio Otero, en el centro de Cali. (1 de enero de 1900). Recuperado el 16 de julio de 2019, de Biblioteca Digital - Universidad Icesi: http://hdl.handle.net/123456789/73895"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Iglesia de San Francisco",
+    "año": "Finales del siglo XVIII, principios del siglo XIX (1803 - 1827)",
+    "tipologia": "Edificación religiosa",
+    "arquitectos_inventores": "Diseño de Andrés Marcelino Pérez de Arroyo. Restauración por Borrero y Ospina",
+    "direccion": "Cl. 9 #5-59",
+    "gps": [3.450117, -76.533538],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, este templo fue diseñado por el sacerdote Andrés Marcelino Pérez de Arroyo bajo estilo neoclásico, alejado de las formas barrocas populares. El terremoto de 1885 dañó la bóveda central, restaurada por Borrero y Ospina (Departamento Administartivo de Planeación Municipal, 2014).",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional mediante la Resolución 1686 del 1 de diciembre de 2004. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Aunque el edificio se idealizado bajo premisas neoclásicas españolas su conclusión se realizó ya durante y tras la independencia, adoptando estas formas un ideario republicano. La fachada en ladrillo fue pensada para ser recubierta de cal. (Departamento Administrativo de Planeación Municipal, 2014).",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N - 21. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "tripadvisor. (s.f.). Recuperado el 11 de julio de 2019, de Como un todo:Convento de San Joaquín: https://www.tripadvisor.co/ShowUserReviews-g297475-d6960197-r229319809-Iglesia_San_Francisco-Cali_Valle_del_Cauca_Department.html"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Torre de la iglesia del convento de La Merced",
+    "año": "",
+    "tipologia": "Edificación religiosa",
+    "arquitectos_inventores": "Anónimo. Intervención anónima en el siglo XVIII y en 1965 por Diego Salcedo, Enrique Sinisterra y José Luis Giraldo.",
+    "direccion": "Calles 6 y 7 Carrera 4",
+    "gps": [3.450886, -76.536345],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, este edificio se construyó en 1678, en sustitución de otra más antigua edificada entre 1541 y 1544. La capilla y su convento fueron fundados por el fraile mercedario fray Hernando de Granada. Esta parroquia fue la segunda de la ciudad. (Departamento Administartivo de Planeación Municipal, 2014) La restauración realizada por el arquitecto Enrique Sinisterra O´Byrne en 1965. En esta intervención se trató de devolver el edificio su antiguo aspecto del siglo XVII- Para ello, se eliminó elementos originales incorporados. Entre estas partes se encuentra la cúpula de la torre, que el arquitecto data del siglo XVIII, que la sustituyó por un tejado a cuatro aguas con teja, dejando los demás elementos clásicos. (Sinisterra O´Byrne, 1974).",
+    "proteccion": "Junto con el convento, el edificio fue declarado Bien de Interés Cultural del ámbito Nacional mediante Decreto 285 del 24 de febrero de 1975. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "La edificación es del siglo XVII, pero la torre tiene claras connotaciones neoclásicas. Esta torre se modificó bajo este concepto en una intervención en el siglo XVIII (según el arquitecto Enrique Sinisterra O´Byrne (Departamento Administartivo de Planeación Municipal, 2014) ) o XIX.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-23. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Sinisterra O´Byrne, E. (1974). Restauración del templo de La Merced de Cali. Apuntes (11), 1-67.",
+      "Tover. (s.f.). Recuperado el 16 de julio de 2019, de Iglesia de la Merced: https://www.trover.com/d/1RwX9-iglesia-la-merced-cali-colombia"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Palacio Nacional",
+    "año": "1926-1933",
+    "tipologia": "Edificio público administrativo",
+    "arquitectos_inventores": "Planos del ingeniero Giovanni Lignarolo (1926) (Palacio Nacional) . Realizado por el ingeniero Joseph Maertens (Departamento Administartivo de Planeación Municipal, 2014)",
+    "direccion": "Calle 12 - Cra. 4",
+    "gps": [3.452626, -76.531761],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, él edifico se ideó por la necesidad de albergar a la administración de la gobernación del Departamento del Valle del Cauca (establecida el 16 de Abril de 1910). (Departamento Administartivo de Planeación Municipal, 2014). Parece ser que los planos del edificio fueron ideados por el ingeniero Giovanni Lignarolo (15 de febrero de 1926) e inaugurado el 29 de junio de 1933 (Palacio Nacional).",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional mediante el decreto 1722 del 25 de julio de 1977 (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Edificio emblemático, máximo exponente del estilo republicano neoclásico de estilo francés.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-24. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Edificio Palacio Nacional de Cali. (s.f.). Recuperado el 16 de Julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: http://hdl.handle.net/123456789/64878",
+      "Ortega, C. (s.f.). Palacio Nacional, Edificio Otero y Parque Caicedo. Recuperado el 16 de julio de 2019, de Biblioteca Digital - Universidad Icesi: http://hdl.handle.net/123456789/64537",
+      "Palacio Nacional. (s.f.). Recuperado el 16 de julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: http://expovirtuales.bibliovalle.gov.co/project/urbanizacion-obras-publicas-salubridad-e-higienismo/",
+      "Panorámica de la fachada del Palacio Nacional en la esquina de la Plaza de Caicedo. (s.f.). Recuperado el 16 de julio de 2019, de Biblioteca Digital - Universidad Icesi: http://hdl.handle.net/123456789/37919"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Teatro Jorge Isaacs",
+    "año": "1931",
+    "tipologia": "Edificación para espectáculos",
+    "arquitectos_inventores": "Ingenieros Gaetano Lignarolo y Guido Micucci. Decorado por Mauricio Ramelli. Intervenido por Manuel Lago (Departamento Administartivo de Planeación Municipal, 2014) .",
+    "direccion": "Cra. 3 #12-28",
+    "gps": [3.453241, -76.532393],
+    "historia": "Éste teatro fue construido a instancias de Hermman Bohmer (Arroyo Reina, 2006 ) y restaurado en 1989 por Manuel Lago (Departamento Administartivo de Planeación Municipal, 2014).",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional mediante el decreto 2858 del 26 de noviembre de 1984, con nivel 1 de conservación. (Departamento Administartivo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio que en su origen estaba coronado por estatuas en su tejado, hoy perdidas.",
+    "bibliografia": [
+      "Arroyo Reina, J. H. (2006 ). Historia de las prácticas empresariales en el Valle del Cauca. Cali: Universidad del Valle.",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-29. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "google.com. (Noviembre de 2018). Recuperado el 17 de julio de 2019, de google earth: https://www.google.com/maps/@3.4532237,-76.5325483,3a,75y,106.2h,104.13t/data=!3m6!1e1!3m4!1sctavIuIaXtyPTPrg21-e0w!2e0!7i13312!8i6656",
+      "Hernández, V. H. (14 de julio de 2007). Teatro Jorge Isaacs. Recuperado el 17 de julio de 2019, de flickr.com: https://www.flickr.com/photos/vik407/829786112",
+      "Teatro Jorge Isaacs antes de iniciar su proceso de remodelación, en Cali. (s.f.). Recuperado el 17 de julio de 2019, de Biblioteca Digital - Universidad Icesi: http://hdl.handle.net/123456789/75080"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Teatro Municipal Enrique Buenaventura",
+    "año": "1919-1924",
+    "tipologia": "Edificación para espectáculos",
+    "arquitectos_inventores": "Ingenieros. Borrero y Ospina",
+    "direccion": "Cra. 5 #6-64",
+    "gps": [3.449397, -76.536082],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Nacional por el Ministerio de Cultura mediante la resolución 1585 del 5 de octubre de 2002 (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC N-30. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Teatro Municipal Enrique Buenaventura. (23 de noviembre de 2017). Recuperado el 17 de julio de 2019, de publimetro.co: https://www.publimetro.co/co/cali/2017/11/23/entrevista-patricia-alaeddine-directora-del-teatro-municipal-enrique-buenaventura-por-sus-90-anos.html"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Antiguo Colegio San Luis Gonzaga (Actual Asamblea Departamental del Valle)",
+    "año": "Décadas del 10 ó 20 del siglo XX",
+    "tipologia": "Institución educativa",
+    "arquitectos_inventores": "Ingeniero y arquitecto José Sacasas Munné.",
+    "direccion": "Cra. 9 #8-60, Cali, Valle del Cauca",
+    "gps": [3.461136, -76.535965],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, el edificio fue diseñado por el español Ingeniero y arquitecto José Sacasas Munné, quien se encontraba trabajando en Colombia desde 1911 (Departamento Administartivo de Planeación Municipal, 2014) , por lo que este edificio debió construirse po aquellos años.",
+    "proteccion": "Declarado Bien de Interés Cultural del ámbito Municipal, con nivel 1 de conservación integral. (Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Edificio cuyo cerramiento superior es de fábrica moderna y totalmente inadecuado para la estética del edificio.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC M1-1. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Edificio Asamplea Departamental del Valle. (s.f.). Recuperado el 20 de julio de 2019, de valledelcauca.gov.co: http://pqr.valledelcauca.gov.co/publicaciones.php?id=36446&amp;dPrint=1"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Antiguo Molino Roncallo",
+    "año": "1927",
+    "tipologia": "Edificio industrial",
+    "arquitectos_inventores": "Desconocido (probablemente ingenieros del Ferrocarril del Pacífico).",
+    "direccion": "Cra. 7 #25A-20",
+    "gps": [3.454405, -76.518671],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali(Departamento Administartivo de Planeación Municipal, 2014) el molino se inauguró en 1905, con el nombre “El molino Condor de Oro”, aunque la fecha de este edificio es de 1927. Se construyó junto a la vía férrea (de la que aún conserva sus restos). El edificio ardió el 15 de noviembre de 2017.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral(Departamento Administartivo de Planeación Municipal, 2014) .",
+    "anotaciones": "Actualmente el edificio de cinco plantas se encuentra semiderruido, con las fachadas aún en pié. A día de edición de este escrito, el inmueble necesita una intervención urgente de consolidación y restauración.",
+    "bibliografia": [
+      "Alcaldía de Santiago de Cali. (5 de abril de 2014). Recuperado el 10 de agosto de 2019, de Alcalde presenta proyecto del Corredor Verde, con el Presidente de Fundación Ford: http://web1.cali.gov.co/publicaciones.php?id=102322&amp;dPrint=1",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC M1-2. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "elpais.com. (16 de noviembre de 2017). Recuperado el 24 de julio de 2019, de El incierto futuro del edificio El Molino después del incendio: https://www.elpais.com.co/cali/el-incierto-futuro-del-edificio-el-molino-despues-del-incendio.html"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Banco Agrario",
+    "año": "1930",
+    "tipologia": "Banco",
+    "arquitectos_inventores": "Atribuido a la casa de ingeniería Borrero y Ospina.",
+    "direccion": "Calle 11 # 5-28",
+    "gps": [3.450927, -76.532751],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali este edifico ha sido sede de barias entidades bancarias. (Departamento Administartivo de Planeación Municipal, 2014) .",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral(Departamento Administartivo de Planeación Municipal, 2014) .",
+    "anotaciones": "Edificio ubicado enfrente de la Catedral, también de fachada neoclásica.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC M1-3. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 12 de agosto de 2019, de Google maps: https://www.google.com/maps/place/Cl.+11+%235-28"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Antiguas oficinas de la Gobernación del Valle, Casa de Comercio de Francisco Menotti, actual Casa Proartes",
+    "año": "1909",
+    "tipologia": "Edificio penitenciario",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Cra. 5 #7-02",
+    "gps": [3.449677, -76.53561],
+    "historia": "Parece ser que fue la primera sede de las oficinas de la gobernación de recién creado departamento del Valle del Cauca (Sánchez Fuertes &amp; Romero Tenorio, 2013). También tuvo un uso comercial, como tienda de ropas y telas de Francisco Menotti. En la actualidad, es sede de la entidad cultural privada Proartes.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral(Departamento Administartivo de Planeación Municipal, 2014).",
+    "anotaciones": "Edificio actualmente ocupado por la Casa Cultural Proartes.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC M1-12. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "http://expovirtuales.bibliovalle.gov.co/. (s.f.). Recuperado el 13 de noviermbre de 2019, de Exposición: Modernizaciones en el Valle del Cauca siglo XX. Urbanización, obras públicas, salubridad e higienismo: http://expovirtuales.bibliovalle.gov.co/project/urbanizacion-obras-publicas-salubridad-e-higienismo/",
+      "locationcolombia.com. (s.f.). Recuperado el 12 de agosto de 2019, de http://locationcolombia.com",
+      "Sánchez Fuertes, C., &amp; Romero Tenorio, D. J. (2013). Memorias Biblioteca del Centenario. Santiago de Cali: Alcaldía de Santiago de Cali."
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Centro Educativo Miraflores Comfandi.",
+    "año": "1950",
+    "tipologia": "Institución Religiosa (Convento). Actual institución educativa.",
+    "arquitectos_inventores": "Anónimo (atribuido a Siccard Calvo?). (Departamento Administartivo de Planeación Municipal, 2014)",
+    "direccion": "Calle 3A #23B-18",
+    "gps": [3.439595, -76.54004],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali(Departamento Administartivo de Planeación Municipal, 2014) , fue ideado como convento de monjas de la orden del Carmelo. Ésta fuente señala que, sus fachadas se proyectaron para ser recubiertas con repello, pero debido a la gran amplitud, se decidió dejar el ladrillo visto.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral. (Departamento Administartivo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio de hormigón armado revestido por ladrillo visto. Pese a haberse edificado en los años cincuenta del siglo XX, es un edificio conceptualmente republicano neoclásico.",
+    "bibliografia": [
+      "comfandimiraflores.es. (s.f.). Recuperado el 14 de octubre de 2019, de comfandimiraflores.es: https://comfandimiraflores.es.tl/Nuestra-Historia.htm",
+      "Departamento Administartivo de Planeación Municipal. (2014). BIC M1-16. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Gómez, G. (25 de julio de 1990). Biblioteca Digital - Universidad Icesi. Recuperado el 14 de octubre de 2019, de Biblioteca Digital - Universidad Icesi: http://audiovisuales.icesi.edu.co/audiovisuales/handle/123456789/64504?locale=pt",
+      "locationcolombia.com. (s.f.). Recuperado el 12 de agosto de 2019, de http://locationcolombia.com"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Colegio de la Sagrada Familia",
+    "año": "1919. Ampliado y reformado en 1930",
+    "tipologia": "Institución educativa",
+    "arquitectos_inventores": "Rugiero Rissetto",
+    "direccion": "Calle 3 oeste #3-20",
+    "gps": [3.449985, -76.543022],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral(Departamento Administartivo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio ampliamente reformado interior y exteriormente en 2017. Parte de la fachada oeste fue destruida y aumentado varias plantas.",
+    "bibliografia": [
+      "Departamento Administartivo de Planeación Municipal. (2014). BICM M1-19. Santiago de Cali: Alcaldía de Santiago de Cali.v",
+      "Google maps. (septiembre de 2017). Recuperado el 21 de agosto de 2019, de google.com: https://www.google.com/maps/place/Cl.+3+Oe.+%233-20,+Cali,+Valle+del+Cauca/@3.4501972,-76.5430042,3a,53.2y,184.59h,106.86t"
+    ]
+  },
+  {
+    "id": 16,
+    "nombre": "Colegio Instituto Técnico Industrial San Juan Bosco",
+    "año": "1936-1946",
+    "tipologia": "Institución educativa",
+    "arquitectos_inventores": "Giovanni Buscaglion, Miguel Zablowsky (Constructor)",
+    "direccion": "Cl. 8 #14-75",
+    "gps": [3.442898, -76.534026],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, Giovanni Buscaglioni fue un religioso salesiano nacido en Piamonte (Italia). Fue el artífice del diseño de otros edificios del mismo estilo, como varios colegios salesianos en (el de Tuluá y el de Cartagena), la Iglesia del Carmen en Bogotá, el Palacio Arzobispal de Manizales y el Seminario de Villanueva en Medellín. En estos edificios muestra su estilo de repetición de patrones neoclásicos. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio cuyas fachadas están en relativo buen estado de conservación. Sin embargo, la zona en la que se encuentra está en evidente declive social y económico, lo que provoca que pueda estar en riesgo de abandono o destrucción.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-21. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B026&#39;34.4%22N+76%C2%B032&#39;02.5%22W/@3.4422231,-76.5336471,3a,90y,326.53h,106.09t/data=!3m6!1e1!3m4!1srHGK82WGGkaaEPMvdr7P2w!2e0!7i13312!8i6656!4m5!3m4!1s0x0:0x0!8m2!3d3.442898!4d-76.534026"
+    ]
+  },
+  {
+    "id": 17,
+    "nombre": "Edificio Planta Rio Cali. Acueducto de San Antonio",
+    "año": "1920",
+    "tipologia": "Acueducto-planta de tratamiento de aguas",
+    "arquitectos_inventores": "Bunker y Moore",
+    "direccion": "Carrera 10 Calle 10 Oeste",
+    "gps": [3.446802, -76.544678],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, fue uno de los primeros ejemplo de arquitectura neoclásica republicana, proyectado por la firma norteamericana Geo Bunker. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Actualmente es el eje del parque del Acueducto en San Antonio, para el disfrute de la población. La torre se proyectó como mirador de la ciudad.",
+    "bibliografia": [
+      "Archivo Fotográfico y Fílmico. (1920). Recuperado el 11 de julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: http://repository.icesi.edu.co/audiovisuales/bitstream/123456789/65093/7/Fdo%200010719.jpg.preview.jpg",
+      "Departamento Administrativo de Planeación Municipal. (2014). BIC M-36. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Exposición: Modernizaciones en el Valle del Cauca siglo XX. (1920). Recuperado el 11 de julio de 2019, de http://expovirtuales.bibliovalle.gov.co/wp-content/uploads/2016/09/0201127.jpg",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B026&#39;34.4%22N+76%C2%B032&#39;02.5%22W/@3.4422231,-76.5336471,3a,90y,326.53h,106.09t/data=!3m6!1e1!3m4!1srHGK82WGGkaaEPMvdr7P2w!2e0!7i13312!8i6656!4m5!3m4!1s0x0:0x0!8m2!3d3.442898!4d-76.534026"
+    ]
+  },
+  {
+    "id": 18,
+    "nombre": "Edificio propiedad del Hospital San Juan de Dios",
+    "año": "1940",
+    "tipologia": "Vivienda-negocio",
+    "arquitectos_inventores": "Desconocidos",
+    "direccion": "Cl. 17 #4-11",
+    "gps": [3.454385, -76.527999],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio en claro abandono y con peligro de desaparecer. Sólo quedan las fachadas y una pared lateral, que están sustentadas sólo con algunas maderas. Los vanos están sellados para evitar la entrada de personas al solar interior y presenta numerosas pinturas que deterioran aún más el valor estético de la construcción.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-37. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com.co/maps/@3.4544581,-76.5281761,3a,81.5y,97.99h,103.62t/data=!3m6!1e1!3m4!1ssNPV91TK-OYPET1VmWdbfA!2e0!7i13312!8i6656?hl=es&amp;authuser=0"
+    ]
+  },
+  {
+    "id": 19,
+    "nombre": "Hotel María Victoria",
+    "año": "1930",
+    "tipologia": "Hotel",
+    "arquitectos_inventores": "Desconocidos",
+    "direccion": "Cl. 10 #3-2 a 3-102",
+    "gps": [3.452274, -76.534062],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Fachada muy maltratada, aunque en el 2014 la alcaldía de Cali advirtió a sus propietarios sobre su conservación. (Redacción de El País, 2014)",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-48. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B027&#39;08.2%22N+76%C2%B032&#39;02.6%22W/@3.4525063,-76.533945,3a,75y,202.86h,103.51t/data=!3m6!1e1!3m4!1scGNWJBi37WISvPeEDGs1zA!2e0!7i13312!8i6656!4m5!3m4!1s0x0:0x0!8m2!3d3.452274!4d-76.534062?hl=es",
+      "Redacción de El País. (5 de marzo de 2014). www.elpais.com.co. Recuperado el 13 de 11 de 2019, de Sancionarán a dueños de edificaciones con fachadas deterioradas en Cali: https://www.elpais.com.co/cali/sancionaran-a-duenos-de-edificaciones-con-fachadas-deterioradas-en.html"
+    ]
+  },
+  {
+    "id": 20,
+    "nombre": "Iglesia de San Martín",
+    "año": "Fachada de las primeras décadas del siglo XX",
+    "tipologia": "Iglesia",
+    "arquitectos_inventores": "Desconocidos",
+    "direccion": "Cra. 6 Calle 5, 32",
+    "gps": [3.448217, -76.536863],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, la manzana fue adquirida por Comfenalco, quien debe procurar la creación de espacios públicos en su interior y liberar esta construcción. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio al que se le está incrementando su valor social.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-51. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Elpais.com. (s.f.). https://www.elpais.com.co/. Recuperado el 06 de noviembre de 2019, de https://www.elpais.com.co/:https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.elpais.com.co%2Ffiles%2Farticle_content_gallery%2Fuploads%2F2017%2F10%2F21%2F59ebbbdbe23fd.jpeg&amp;imgrefurl=https%3A%2F%2Fwww.elpais.com.co%2Fcali%2Flas-joyas-arquitectonicas-de-que-se-convierten-en-casas"
+    ]
+  },
+  {
+    "id": 21,
+    "nombre": "Iglesia de San Nicolás",
+    "año": "1880, intervenido en 1957",
+    "tipologia": "Iglesia",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Cl. 20 #Carrera 5",
+    "gps": [3.454748, -76.52505],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio en buen estado.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-52. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4546437,-76.525592,3a,75y,88.77h,113.17t/data=!3m6!1e1!3m4!1sX24ICJSbBE-zMFBpqr39mA!2e0!7i13312!8i6656?hl=es"
+    ]
+  },
+  {
+    "id": 22,
+    "nombre": "Iglesia de Santa Rosa",
+    "año": "1939. Reformada en 1956",
+    "tipologia": "Edificación religiosa (iglesia)",
+    "arquitectos_inventores": "José Sacasas Munné",
+    "direccion": "Cra. 10 ##10-5",
+    "gps": [3.447277, -76.532443],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, su altar mayor original, hecho en mármol de carrara, fue destruido en los años 70 del siglo XX para adecuarse a las exigencias litúrgicas del Concilio del Vaticano II.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 1 de conservación integral.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Parece ser que, en origen, no estaba enyesado, sino que prevalecía su construcción exterior de ladrillo visto.",
+    "bibliografia": [
+      "Camargo, F. A. (junio de 2017). Google maps. Recuperado el 07 de septiembre de 2019, de google.com: https://www.google.com/maps/place/Parque+Santa+Rosa/@3.4474359,-76.5319623,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNS64dp2OF5jXJNkW0yPjydyvp4_fSNCHmjsm4z!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNS64dp2OF5jXJNkW0yPjydyvp4_fSNCHmjsm4z%3Dw",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-55. Santiago de Cali: Alcaldía de Santiago de Cali."
+    ]
+  },
+  {
+    "id": 23,
+    "nombre": "Biblioteca del Centenario",
+    "año": "1928",
+    "tipologia": "Escuela. Actual biblioteca",
+    "arquitectos_inventores": "Reforma por Mauricio Otero Lavado",
+    "direccion": "Av. 4 Oe. #1-16 esquina",
+    "gps": [3.450743, -76.543748],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, fue construida como escuela Isaías Gamboa. En 1983 pasó a ser biblioteca, para albergar los fondos de la Biblioteca del Centenario. Fue remodelada en 2010.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de tipo arquitectónico.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio muy reconvertido en 2010, hasta el punto de eliminar elementos originales importantes estética y estructurales de la edificación original, por lo que, probablemente, se tuvo que cambiar su nivel de protección.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-82. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4506371,-76.5436277,3a,90y,267.27h,93.24t/data=!3m6!1e1!3m4!1sU44vt1Rj-yVSfKlhYpWEow!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 24,
+    "nombre": "Casa Gómez",
+    "año": "1945",
+    "tipologia": "Vivienda y oficinas (actualmente en venta)",
+    "arquitectos_inventores": "Gerardo Posada",
+    "direccion": "Avenida 2 Norte #2N-22",
+    "gps": [3.451291, -76.540289],
+    "historia": "Según el Departamento Administrativo de Planeación Municipal de Santiago de Cali, ha pasado de vivienda a oficinas, sin cambiar su configuración exterior. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio actualmente en venta, del que se ha de vigilar cuidadosamente sus elementos arquitectónicos y configuración exterior original.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-7. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4513727,-76.5404096,3a,75y,116.27h,83.32t/data=!3m6!1e1!3m4!1sEd0YAoZjaEboV8UGeuE9ow!2e0!7i13312!8i6656",
+      "Google maps. (noembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4511827,-76.5404439,3a,75y,68.58h,88.64t/data=!3m6!1e1!3m4!1s9jkrPj88dVFARGW8tNAM4w!2e0!7i13312!8i6656",
+      "Universidad nacional de Colombia. (s.f.). Historia extensa de la arquitectura en Colombia. Recuperado el 12 de noviembre de 2019, de http://blogs.virtual.unal.edu.co/: http://blogs.virtual.unal.edu.co/hacolombia/files/2011/10/340.jpg"
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Casa Republicana de 1928",
+    "año": "1928",
+    "tipologia": "Vivienda - negocios",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 2 Norte #2N-22 (Barrio Granada)",
+    "gps": [3.451291, -76.540289],
+    "historia": "Edificación modelo de edificio republicano neoclásico, al estilo europeo. Es de los pocos ejemplos de los que se señala el año de construcción y estuvo a punto de ser demolido completamente.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio modificado y parcialmente destruido, pero aún conservan bastantes elementos originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-13. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4572635,-76.5337127,3a,75y,164.71h,90.48t/data=!3m6!1e1!3m4!1sk6LkftJl9UeohqtUnWqHQg!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Casa Republicana",
+    "año": "Década de los 20 -30 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "",
+    "direccion": "Av. 6 Nte. #23 (Barrio Granada)",
+    "gps": [3.457061, -76.534037],
+    "historia": "",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico.(Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Aunque el edificio ha sido modificado, aún conserva elementos que lo dotan de una gran calidad arquitectónica.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M1-55. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-14. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4569101,-76.5338635,3a,90y,280.57h,98.88t/data=!3m6!1e1!3m4!1sTb-r1ei-ydmJeAfGTas6nQ!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Casa Republicana",
+    "año": "Principios del siglo XX (década de los 20)",
+    "tipologia": "Vivienda - restaurante",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 9 N # 15 AN – 02 (Barrio Granada)",
+    "gps": [3.459904, -76.533929],
+    "historia": "Debió ser una vivienda y actualmente es un negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio relativamente bien conservado, pero con elementos que distorsionan y menguan su valor.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-16. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4598093,-76.5338965,3a,49.9y,272.56h,92.63t/data=!3m6!1e1!3m4!1sr699JbyIJL4Pxq6p3yYUpA!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Casa de la Quinta Guzmán o de Los Leones",
+    "año": "1925-1930",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Juan Pablo Lalinde",
+    "direccion": "Avenida 4 Norte #10N-01 (Barrio Granada)",
+    "gps": [3.455585, -76.535151],
+    "historia": "Edificio contraído por el arquitecto Juan Pablo Lalinde para Manuel Guzmán (Archivo Fotográfico y Fílmico) . Ha pasado de vivienda a otros usos, como el institucional o negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso sus zonas verdes, que le confieren un valor especial al edificio.",
+    "bibliografia": [
+      "Archivo Fotográfico y Fílmico. (s.f.). Recuperado el 11 de julio de 2019, de Biblioteca Departamental Jorge Garcés Borrero: http://audiovisuales.icesi.edu.co/audiovisuales/handle/123456789/72338",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-19. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.455325,-76.5352634,3a,29.5y,31.87h,88.85t/data=!3m6!1e1!3m4!1ssRPFRwhG_Lv3rUN7B13IFg!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 8 Norte #10N-05 (Barrio Granada)",
+    "gps": [3.456111, -76.53608],
+    "historia": "Edificio que ha pasado de vivienda a otros usos, como el institucional o negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso sus zonas verdes, que le confieren un valor especial al edificio.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-21. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4559834,-76.5360815,3a,75y,354.03h,87.79t/data=!3m6!1e1!3m4!1sCU78B2jU6_yqyVIgZvGA8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 15 Norte #8N-39 (Barrio Granada)",
+    "gps": [3.459105, -76.534054],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, incluso se ha respetado su color original. Su aparcamiento sirve como escaparate.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-24. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591863,-76.5338484,3a,75y,217.65h,89.57t/data=!3m6!1e1!3m4!1s2NuiAiEv9sWH-8pYUG_Q8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 31,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 15 Norte #8N-4 (Barrio Granada)",
+    "gps": [3.459037, -76.534075],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero se ha cambiado el color original de la fachada y corre el riesgo de perder su valor patrimonial.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-24. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591863,-76.5338484,3a,75y,197.54h,93.62t/data=!3m6!1e1!3m4!1s2NuiAiEv9sWH-8pYUG_Q8A!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 32,
+    "nombre": "Casa Republicana de principios del siglo XX",
+    "año": "Siglo XX, década de los años 20",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 14 Norte #9N-55 (Barrio Granada)",
+    "gps": [3.458978, -76.535322],
+    "historia": "Edificio que ha que en la actualidad funciona como negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero la profusión de la vegetación del jardín oculta parte de la construcción.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-28. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4591777,-76.5352735,3a,75y,193.55h,91.8t/data=!3m6!1e1!3m4!1sdGfEuZ9lJC7S0Pw_er5uvA!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 33,
+    "nombre": "Villa Felisa",
+    "año": "1924",
+    "tipologia": "Vivienda. Actual restaurante.",
+    "arquitectos_inventores": "Promovido por Marco A. Botero.",
+    "direccion": "Avenida 6 #4N-51 (Barrio Granada)",
+    "gps": [3.456359, -76.533998],
+    "historia": "Edificio, cuyo nombre original era “Villa Ofelia”, fue promovido en 1924 por Marco A. Botero. El 9 de febrero de 1943, Josefina Hoyos (como albacea de sus hijos Germán y Arturo Gómez Hoyos) traspasó el bien, por medio de Julio C. Gómez L., a Salomón Vélez C., por 38000 pesos colombianos. (Nieto, 9) Felisa Montoya (Viuda de Vélez y a la que se le debe realmente su nomenclatura actual) adquirió en 1967 el inmueble por 1000000 de pesos. Un año más tarde lo transfirió a la Universidad Santiago de Cali por 1050000 pesos. (Certificado de tradición inmobiliaria, 2012) La USC convirtió el edificio en facultad de Educación y consultorio jurídico. En 1995 lo cedió a José Agustín Grajales por 600000000 de pesos, para invertirlos en la construcción de dos nuevos bloques en su sede en Pampalinda. En 1996 lo adquirió Germán Mejía Amaya. (El Tiempo, 1997)",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pero el color y el uso actual del inmueble degrada su valor patrimonial.",
+    "bibliografia": [
+      "Certificado de tradición inmobiliaria, 370-81598 (2012).",
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-35. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "El Tiempo. (13 de mayo de 1997). La Felisa, con una restauración incierta. Recuperado el 5 de febrero de 2020, de El Tiempo: https://www.eltiempo.com/archivo/documento/MAM-582640",
+      "Google maps. (diciembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4563462,-76.5338779,3a,75y,291.2h,92.87t/data=!3m7!1e1!3m5!1swNmz93RHXGk_xY4ZKpykxw!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3DwNmz93RHXGk_xY4ZKpykxw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D",
+      "Nieto, R. (1943 de fecbrero de 9). Escritura 271 de 1943. Santiago de Cali: Notaría Primera de Santiago de Cali.",
+      "Vélez, A. (13 de noviembre de 2013). Villa Felisa. Recuperado el 5 de enero de 2020, de https://villafelisa.wordpress.com/"
+    ]
+  },
+  {
+    "id": 34,
+    "nombre": "Casa republicana (Barrio Versalles)",
+    "año": "Principios del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Avenida 5 A Norte calle 21N-41 (ó Av. 5a Nte. #21-56)",
+    "gps": [3.462671, -76.529105],
+    "historia": "Edificio que, al parecer, no ha cambiado su función de vivienda.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado con sus elementos exteriores originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-53. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B027&#39;45.6%22N+76%C2%B031&#39;44.8%22W/@3.4625924,-76.5289847,3a,62.7y,305.44h,92.65t/data=!3m7!1e1!3m5!1sb-mDbJ5LXDYONXfb0Zzz0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Db-mDbJ5LXDYONXfb0Zzz0g%26output%3Dthumbnail%26cb"
+    ]
+  },
+  {
+    "id": 35,
+    "nombre": "Casa republicana (Barrio El Peñón)",
+    "año": "Años 20 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 3 Oeste #1-38 (Jose Riveros B Cl. 3 Oe. #1-38 )",
+    "gps": [3.450593, -76.542824],
+    "historia": "Edificio que ha cambiado su función de vivienda a negocio.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado con sus elementos exteriores originales.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-67. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/place/3%C2%B027&#39;45.6%22N+76%C2%B031&#39;44.8%22W/@3.4625924,-76.5289847,3a,62.7y,305.44h,92.65t/data=!3m7!1e1!3m5!1sb-mDbJ5LXDYONXfb0Zzz0g!2e0!6s%2F%2Fgeo2.ggpht.com%2Fcbk%3Fpanoid%3Db-mDbJ5LXDYONXfb0Zzz0g%26output%3Dthumbnail%26cb"
+    ]
+  },
+  {
+    "id": 36,
+    "nombre": "Casa republicana (Barrio El Peñón)",
+    "año": "Años 20 del siglo XX",
+    "tipologia": "Vivienda",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Cra. 2 #1-27/37 Oeste. (Cra. 1 Oe.)",
+    "gps": [3.450415, -76.541407],
+    "historia": "Edificio que ha cambiado su función de vivienda a restaurante.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio bastante bien conservado, pese a algunas modificaciones en vanos y cerramientos.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-72. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (septiembre de 2017). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4504901,-76.5412954,3a,63.3y,171.84h,95.26t/data=!3m6!1e1!3m4!1szOSooiptgo6qY5qa5holew!2e0!7i13312!8i6656"
+    ]
+  },
+  {
+    "id": 37,
+    "nombre": "Casa republicana (Barrio de San Nicolás)",
+    "año": "Primeras décadas del siglo XX (años 30 o 40).",
+    "tipologia": "Vivienda y comercio",
+    "arquitectos_inventores": "Anónimo",
+    "direccion": "Calle 19 # 2-42/84/52/56. Esquina con Carrera 3 # 18-83/89.",
+    "gps": [3.455987, -76.526985],
+    "historia": "Edificio que ha cambiado poco en su uso, especialmente en su vertiente comercial.",
+    "proteccion": "Declarado Bien de Interés Municipal, con el nivel 2 de Conservación del Tipo Arquitectónico. (Departamento Administrativo de Planeación Municipal, 2014)",
+    "anotaciones": "Edificio que ha cambiado algunas de sus estructuras y necesita una intervención urgente.",
+    "bibliografia": [
+      "Departamento Administrativo de Planeación Municipal. (2014). BICM M2-73. Santiago de Cali: Alcaldía de Santiago de Cali.",
+      "Google maps. (noviembre de 2018). Recuperado el 06 de noviembre de 2019, de google.com: https://www.google.com/maps/@3.4559508,-76.5268933,3a,90y,293.55h,101.58t/data=!3m6!1e1!3m4!1sAbh0l9liEcMVRMn0yFBLbw!2e0!7i13312!8i6656"
+    ]
+  }
 ]
