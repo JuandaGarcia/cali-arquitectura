@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
 		alignItems: 'center',
 		justifyContent: 'space-between',
 		flexDirection: 'row',
-		zIndex: 1,
+		zIndex: 5000,
 	},
 	text_navbar: {
 		color: 'white',
@@ -73,6 +73,15 @@ const styles = StyleSheet.create({
 	texto_lugar: {
 		display: 'flex',
 		flexDirection: 'row',
+	},
+	mapStyle: {
+		width: Dimensions.get('window').width,
+		height: '96%',
+	},
+	makerIMG: {
+		width: 30,
+		height: 30,
+		borderRadius: 5,
 	},
 })
 

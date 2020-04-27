@@ -12,7 +12,7 @@ const App = () => {
 		<NativeRouter>
 			<Layout>
 				<Switch>
-					<Route exact path="/" component={Lugar} />
+					<Route exact path="/" component={Mapa} />
 					<Route exact path="/info-lugar/:id" component={Lugar} />
 					<Route exact path="/histaria-cali" component={HistoriaCali} />
 					<Route
