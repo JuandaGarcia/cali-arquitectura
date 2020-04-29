@@ -1,10 +1,14 @@
 import React from 'react'
 import { View, Text, Image } from 'react-native'
-import MapView from 'react-native-maps'
+import MapView, { Marker, Callout } from 'react-native-maps'
 import styles from '../styles'
 import lugares from '../data/lugares.json'
+import { useHistory } from 'react-router-native'
+import { MapStyle, MapStyleElectric, Blue } from '../components/MapStyle'
 
 const Mapa = () => {
+	const history = useHistory()
+
 	return (
 		<View>
 			<MapView
@@ -14,27 +18,31 @@ const Mapa = () => {
 					latitudeDelta: 0.09,
 					longitudeDelta: 0.09,
 				}}
+				customMapStyle={Blue}
 				style={styles.mapStyle}
 			>
 				{lugares.map((lugar) => {
 					return (
-						<MapView.Marker
-							onPress={() => {
-								console.log('hola')
-							}}
+						<Marker
 							key={lugar.id}
+							image={require('../img/marker.png')}
 							coordinate={{
 								latitude: lugar.gps[0],
 								longitude: lugar.gps[1],
 							}}
-							title={lugar.nombre}
-							description={lugar.tipologia}
 						>
-							<Image
-								source={require('../img/lugares/1.jpg')}
-								style={styles.makerIMG}
-							/>
-						</MapView.Marker>
+							<Callout
+								tooltip
+								onPress={() => {
+									history.push(`/info-lugar/${lugar.id}`)
+								}}
+							>
+								<View style={styles.callout}>
+									<Text style={styles.calloutTitle}>{lugar.nombre}</Text>
+									<Text style={styles.calloutText}>{lugar.tipologia}</Text>
+								</View>
+							</Callout>
+						</Marker>
 					)
 				})}
 			</MapView>

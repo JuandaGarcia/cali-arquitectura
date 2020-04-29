@@ -54,6 +54,13 @@ const styles = StyleSheet.create({
 		color: 'white',
 		fontSize: 20,
 		fontWeight: 'bold',
+		maxWidth: '90%',
+	},
+	atras: {
+		color: 'white',
+		fontSize: 15,
+		marginBottom: 10,
+		marginLeft: 10,
 	},
 	icon_lugar: {
 		width: 26,
@@ -82,6 +89,40 @@ const styles = StyleSheet.create({
 		width: 30,
 		height: 30,
 		borderRadius: 5,
+	},
+	callout: {
+		height: 70,
+		maxWidth: Dimensions.get('window').width,
+		borderRadius: 10,
+		borderColor: '#685CF2',
+		borderWidth: 2,
+		backgroundColor: '#5AAFFE',
+		marginBottom: 5,
+		padding: 5,
+		display: 'flex',
+		alignItems: 'center',
+		justifyContent: 'center',
+	},
+	calloutTitle: {
+		color: 'white',
+		fontWeight: 'bold',
+	},
+	calloutText: {
+		color: 'white',
+	},
+	backContainer: {
+		position: 'absolute',
+		top: 20,
+		left: 35,
+	},
+	backContainerHijo: {
+		display: 'flex',
+		flexDirection: 'row',
+		alignItems: 'center',
+	},
+	margin: {
+		width: '100%',
+		marginBottom: 20,
 	},
 })
 
