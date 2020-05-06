@@ -25,7 +25,7 @@ const Mapa = () => {
 					return (
 						<Marker
 							key={lugar.id}
-							image={require('../img/marker.png')}
+							image={require('../img/marker1.png')}
 							coordinate={{
 								latitude: lugar.gps[0],
 								longitude: lugar.gps[1],

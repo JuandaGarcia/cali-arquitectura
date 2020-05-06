@@ -80,20 +80,25 @@ const Lugar = (props) => {
 						{Lugar.historia}
 					</Text>
 				</View>
-				<View style={styles.texto_lugar}>
-					<Text>
-						<Text style={{ fontWeight: 'bold' }}>Protección: </Text>
-						{Lugar.proteccion}
-					</Text>
-				</View>
+
 				<View style={styles.texto_lugar}>
 					<Text>
 						<Text style={{ fontWeight: 'bold' }}>Anotaciones: </Text>
 						{Lugar.anotaciones}
 					</Text>
 				</View>
+				<View style={styles.texto_lugar}>
+					<Text>
+						{/* <Text style={{ fontWeight: 'bold' }}>Protección: </Text> */}
+						{Lugar.proteccion}
+					</Text>
+				</View>
 				<View style={styles.margin}></View>
 			</ScrollView>
+			<LinearGradient
+				colors={['transparent', 'white']}
+				style={styles.gradient_semana}
+			></LinearGradient>
 		</View>
 	)
 }

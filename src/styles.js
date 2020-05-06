@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
 	},
 	margin: {
 		width: '100%',
-		marginBottom: 20,
+		marginBottom: 120,
 	},
 })
 
