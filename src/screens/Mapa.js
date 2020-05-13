@@ -12,6 +12,7 @@ const Mapa = () => {
 
 	const [region, setRegion] = useState(null)
 	const [MasCercano, setMasCercano] = useState(null)
+	const [Ruta, setRuta] = useState(null)
 
 	useEffect(() => {
 		navigator.geolocation.getCurrentPosition((position) => {
@@ -30,17 +31,47 @@ const Mapa = () => {
 				.sort((a, b) => a.dist - b.dist)[0]
 			console.log(closest)
 			setMasCercano(closest.coord)
+			getDirections()
 
 			const accuracy = position.coords.accuracy
 			calDeta(lat, lon, accuracy)
 		})
 	}, [])
 
+	const getDirections = async (startLoc, desLoc) => {
+		try {
+			const resp = await fetch(
+				`https://maps.googleapis.com/maps/api/directions/json?origin=3.4776205,-76.519199&destination=3.462671,-76.529105&key=AIzaSyAbOQiex_C_CJzUPH9O4xIPfkFrNOqGDJQ`
+			)
+			const respJson = await resp.json()
+			const response = respJson.routes[0]
+			const distanceTime = response.legs[0]
+			const distance = distanceTime.distance.text
+			const time = distanceTime.duration.text
+			const points = Polyline.decode(
+				respJson.routes[0].overview_polyline.points
+			)
+			console.log(points)
+			const coords = points.map((point) => {
+				return {
+					latitude: point[0],
+					longitude: point[1],
+				}
+			})
+			setRuta(coords)
+		} catch (error) {
+			console.log('Error: ', error)
+		}
+	}
+
 	const calDeta = (lat, lon, accuracy) => {
 		const oneDegreeOfLongitudInMeters = 111.32
 		const circunference = 40075 / 360
 		const latDelta = accuracy * (1 / (Math.cos(lat) * circunference))
 		const lonDelta = accuracy / oneDegreeOfLongitudInMeters
+
+		console.log(lat)
+		console.log(lon)
 
 		setRegion({
 			latitude: lat,
@@ -75,15 +106,8 @@ const Mapa = () => {
 						image={require('../img/me2.png')}
 					/>
 				) : null}
-				{region ? (
-					<Polyline
-						coordinates={[
-							{ latitude: MasCercano.lat, longitude: MasCercano.lng },
-							{ latitude: region.latitude, longitude: region.longitude },
-						]}
-						strokeColor="#5AAFFE" // fallback for when `strokeColors` is not supported by the map-provider
-						strokeWidth={5}
-					/>
+				{Ruta ? (
+					<Polyline coordinates={Ruta} strokeColor="#5AAFFE" strokeWidth={5} />
 				) : null}
 				{lugares.map((lugar) => {
 					return (
