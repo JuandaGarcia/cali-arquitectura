@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@mapbox/polyline": "^1.1.0",
     "expo": "~37.0.3",
     "expo-linear-gradient": "^8.1.0",
     "geolib": "^3.2.1",

@@ -6,6 +6,7 @@ import lugares from '../data/lugares.json'
 import { useHistory } from 'react-router-native'
 import { MapStyle, MapStyleElectric, Blue } from '../components/MapStyle'
 import * as geolib from 'geolib'
+import polyline from '@mapbox/polyline'
 
 const Mapa = () => {
 	const history = useHistory()
@@ -29,29 +30,31 @@ const Mapa = () => {
 					return { coord, dist: geolib.getDistance(current, coord) }
 				})
 				.sort((a, b) => a.dist - b.dist)[0]
-			console.log(closest)
 			setMasCercano(closest.coord)
-			getDirections()
 
 			const accuracy = position.coords.accuracy
 			calDeta(lat, lon, accuracy)
 		})
+		getDirections(region, MasCercano)
 	}, [])
+
+	useEffect(() => {
+		getDirections(region, MasCercano)
+	}, [region])
 
 	const getDirections = async (startLoc, desLoc) => {
 		try {
 			const resp = await fetch(
-				`https://maps.googleapis.com/maps/api/directions/json?origin=3.4776205,-76.519199&destination=3.462671,-76.529105&key=AIzaSyAbOQiex_C_CJzUPH9O4xIPfkFrNOqGDJQ`
+				`https://maps.googleapis.com/maps/api/directions/json?origin=${startLoc.latitude},${startLoc.longitude}&destination=${desLoc.lat},${desLoc.lng}&key=AIzaSyAbOQiex_C_CJzUPH9O4xIPfkFrNOqGDJQ`
 			)
 			const respJson = await resp.json()
 			const response = respJson.routes[0]
 			const distanceTime = response.legs[0]
 			const distance = distanceTime.distance.text
 			const time = distanceTime.duration.text
-			const points = Polyline.decode(
+			const points = polyline.decode(
 				respJson.routes[0].overview_polyline.points
 			)
-			console.log(points)
 			const coords = points.map((point) => {
 				return {
 					latitude: point[0],
@@ -69,9 +72,6 @@ const Mapa = () => {
 		const circunference = 40075 / 360
 		const latDelta = accuracy * (1 / (Math.cos(lat) * circunference))
 		const lonDelta = accuracy / oneDegreeOfLongitudInMeters
-
-		console.log(lat)
-		console.log(lon)
 
 		setRegion({
 			latitude: lat,
